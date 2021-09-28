@@ -1,4 +1,4 @@
-### Hi there, I'm Quoc Thinh Vo - aka [KRK9][website](https://quoctvo.com) 👋
+### Hi there, I'm Quoc Thinh Vo - aka [KRK9](https://quoctvo.com) 👋
 
 [![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
 
@@ -6,11 +6,26 @@
 
 - 🔭 I’m currently working on software development
 - 🌱 I’m currently learning Computer Engineering
-- 👯 I’m looking to collaborate on autonomous, ML and AI
+- 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: via my [website contact form](https://quoctvo.com)
-- 😄 Pronouns: Kwok
+- 😄 Pronouns: he/him/his
+- 🤔 How to pronounce my name: Kwok
 - ⚡ Fun fact: I love playing soccer and guitar 
 
+### Connect with me:
+
+[<img align="left" alt="quoctvo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="quoctvo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+
+
+
+
+[website]: https://quoctvo.com
+[linkedin]: https://www.linkedin.com/in/qtvo93/
 <!--
 **qtvo93/qtvo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
