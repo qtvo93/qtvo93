@@ -38,7 +38,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/72519491/135130806-bcf94b85-d1b3-4046-987e-38630813fb15.png" />
-<img align="left" alt="JSON" width="26px" src="https://user-images.githubusercontent.com/72519491/135134858-1ff50fce-9207-4f83-8b34-b0e44c2bee87.png" />
+<img align="left" alt="JSON" width="26px" src="https://user-images.githubusercontent.com/72519491/135134995-a73a723d-fb36-409f-a160-cdad79649b0d.png" />
 
 <br /><br />
 
