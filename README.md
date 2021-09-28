@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="quoctvo.com" width="22px" src="https://user-images.githubusercontent.com/72519491/135136961-89ea6c8b-635c-4922-8df2-9a4eec80cfff.png" />][website]
+[<img align="left" alt="quoctvo.com" width="22px" src="https://user-images.githubusercontent.com/72519491/135137364-e0aff4fe-e622-4a0f-b0c2-98f4f7446009.png" />][website]
 [<img align="left" alt="quoctvo | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/72519491/135136842-2dc4f2a3-f91d-4e20-9578-c1457fa65007.png" />][linkedin]
 
 <br />
