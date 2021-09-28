@@ -45,12 +45,13 @@
 <img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
 
 <br />
+<br />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+
 <br />
 
 ---
