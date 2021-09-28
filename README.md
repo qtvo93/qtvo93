@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: my [website contact form](https://quoctvo.com)
 - 😄 Pronouns: he/him/his
-- 🤔 How to pronounce my name: Kwok
+- 😉 How to pronounce my name: Kwok
 - ⚡ Fun fact: I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 🥰
 
 ### Connect with me:
@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72519491/135126715-2762c4f9-1800-457a-a7f8-97cbe7f420eb.png" />
-<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/72519491/135130955-f16a71e6-d837-475a-abb5-6cb6d089d3b4.png" />
+<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/72519491/135134027-9b716515-71df-428b-9612-b0c24e60bac3.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/72519491/135127000-8b4c5cfa-2656-49f7-9d24-1637d0d807f2.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/72519491/135130011-bf05b328-4d7c-4bc8-b6e9-f7ee9d7bd4a6.png" />
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/72519491/135131569-3074f508-04a6-4a0b-a830-bcf46a7275b9.png" />
