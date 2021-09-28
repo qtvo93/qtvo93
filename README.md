@@ -45,10 +45,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/72519491/135135860-a267479c-069b-4ee9-b885-94048773d772.png" />
-<img align="left" alt="Streamlit" width="26px" src="https://user-images.githubusercontent.com/72519491/135135894-6d48d249-9c25-4965-858d-c67ed5f5facc.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/72519491/135135992-5c21e9d3-aad4-4009-acc3-c31203721ceb.png" />
+<img align="left" alt="Streamlit" width="26px" src="https://user-images.githubusercontent.com/72519491/135136044-a9be41ac-eaba-4026-ab02-eab78219253d.png)" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135131451-83d4b8a7-681c-4bd5-b319-3a254f3e29c3.png" />
+<img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135136111-9f572c48-ece6-44d5-abe3-c6666e99a76d.png" />
 <img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/72519491/135131046-00185448-55e5-4132-85cc-7b53ec2bf50f.png" />
 <img align="left" alt="ModelSim" width="26px" src="https://user-images.githubusercontent.com/72519491/135132336-5cbba288-4db3-4b0d-82bb-828b7d779236.png" />
