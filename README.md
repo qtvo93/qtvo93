@@ -49,7 +49,7 @@
 <img align="left" alt="Streamlit" width="26px" src="https://user-images.githubusercontent.com/72519491/135136044-a9be41ac-eaba-4026-ab02-eab78219253d.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135136111-9f572c48-ece6-44d5-abe3-c6666e99a76d.png" />
-<img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
+<img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135136387-b02e6081-44fe-4e14-b9e7-3d76cbaf097e.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/72519491/135131046-00185448-55e5-4132-85cc-7b53ec2bf50f.png" />
 <img align="left" alt="ModelSim" width="26px" src="https://user-images.githubusercontent.com/72519491/135132336-5cbba288-4db3-4b0d-82bb-828b7d779236.png" />
 
