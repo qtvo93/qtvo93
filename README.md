@@ -23,7 +23,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72519491/135126715-2762c4f9-1800-457a-a7f8-97cbe7f420eb.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/72519491/135127000-8b4c5cfa-2656-49f7-9d24-1637d0d807f2.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/72519491/135129923-98df5a7f-d952-433c-9cce-8c469b391bb5.png" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/72519491/135130011-bf05b328-4d7c-4bc8-b6e9-f7ee9d7bd4a6.png" />
 <img align="left" alt="VHDL" width="26px" src="https://user-images.githubusercontent.com/72519491/135129826-26f207ea-5439-4cd7-8684-b78c55a4af92.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
