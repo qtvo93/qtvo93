@@ -22,17 +22,28 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72519491/135126715-2762c4f9-1800-457a-a7f8-97cbe7f420eb.png" />
+<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/72519491/135130955-f16a71e6-d837-475a-abb5-6cb6d089d3b4.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/72519491/135127000-8b4c5cfa-2656-49f7-9d24-1637d0d807f2.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/72519491/135130011-bf05b328-4d7c-4bc8-b6e9-f7ee9d7bd4a6.png" />
+<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/72519491/135131569-3074f508-04a6-4a0b-a830-bcf46a7275b9.png" />
 <img align="left" alt="VHDL" width="26px" src="https://user-images.githubusercontent.com/72519491/135129826-26f207ea-5439-4cd7-8684-b78c55a4af92.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="BASH" width="26px" src="user-images.githubusercontent.com/72519491/135130219-c757f035-d4b3-46f6-8a23-106799675f17.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/72519491/135127494-64729d59-9e06-4d23-81d9-3f1d94f5b157.png" />
+<img align="left" alt="RISC-V" width="26px" src="https://user-images.githubusercontent.com/72519491/135130420-4d88bc2c-43f9-45d6-9790-aa925067ff74.png" />
+<img align="left" alt="Arduino" width="26px" src="user-images.githubusercontent.com/72519491/135130496-c2ebb652-7f24-438c-843d-0469c6eea59f.png" />
+<img align="left" alt="Texas Instrument" width="26px" src="https://user-images.githubusercontent.com/72519491/135130641-6ca5c533-74b7-4b85-8108-1c0df3cf2614.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/72519491/135130806-bcf94b85-d1b3-4046-987e-38630813fb15.png" />
+<img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/72519491/135131046-00185448-55e5-4132-85cc-7b53ec2bf50f.png" />
+<img align="left" alt="Streamlit" width="26px" src="https://user-images.githubusercontent.com/72519491/135131204-d8e63c2c-9ce9-48f9-bdc9-ab9412cc04ce.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135131451-83d4b8a7-681c-4bd5-b319-3a254f3e29c3.png" />
+<img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
+<img align="left" alt="ModelSim" width="26px" src="https://user-images.githubusercontent.com/72519491/135131633-500893a2-f524-47eb-bc60-ccba8dbf3498.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
