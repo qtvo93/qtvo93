@@ -45,7 +45,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Streamlit" width="26px" src=https://user-images.githubusercontent.com/72519491/135135487-730afda7-66c4-408a-af48-0161db56a915.png" />
+<img align="left" alt="Streamlit" width="26px" src="https://user-images.githubusercontent.com/72519491/135135487-730afda7-66c4-408a-af48-0161db56a915.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135131451-83d4b8a7-681c-4bd5-b319-3a254f3e29c3.png" />
 <img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
