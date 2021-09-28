@@ -1,4 +1,4 @@
-### Hi there, I'm Quoc Thinh Vo - aka [KRK9][website] 👋
+### Hi there, I'm Quoc Thinh Vo - aka [KRK9][website](https://quoctvo.com) 👋
 
 [![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
 
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on software development
 - 🌱 I’m currently learning Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI
-- 📫 How to reach me: via my [Website](mailto:qtvo93@gmail.com)
+- 📫 How to reach me: via my [website contact form](https://quoctvo.com)
 - 😄 Pronouns: Kwok
 - ⚡ Fun fact: I love playing soccer and guitar 
 
