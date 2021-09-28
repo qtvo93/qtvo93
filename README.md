@@ -33,6 +33,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72519491/135126715-2762c4f9-1800-457a-a7f8-97cbe7f420eb.png" />]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72519491/135127000-8b4c5cfa-2656-49f7-9d24-1637d0d807f2.png" />]
 
 
 
