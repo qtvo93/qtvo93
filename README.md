@@ -1,6 +1,6 @@
 ### Hi there, I'm Quoc Thinh Vo - aka [KRK9][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
+[![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
 
 ## I'm a Student, Developer, and Father of a cute Pomeranian!!
 
