@@ -33,7 +33,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="RISC-V" width="26px" src="https://user-images.githubusercontent.com/72519491/135130420-4d88bc2c-43f9-45d6-9790-aa925067ff74.png" />
 <img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/72519491/135131839-38f7e848-5636-4d8b-b13d-74c88f45361b.png" />
-<img align="left" alt="Texas Instrument" width="26px" src="https://user-images.githubusercontent.com/72519491/135130641-6ca5c533-74b7-4b85-8108-1c0df3cf2614.png" />
+<img align="left" alt="Texas Instrument" width="26px" src="https://user-images.githubusercontent.com/72519491/135132177-cc5c68b6-faf4-4917-9534-efb52ade1f6f.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -43,7 +43,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/72519491/135131451-83d4b8a7-681c-4bd5-b319-3a254f3e29c3.png" />
 <img align="left" alt="Vivado" width="26px" src="https://user-images.githubusercontent.com/72519491/135131322-48b551c5-e393-4887-b084-091066120af9.png" />
-<br>
+<br><br /><br />
+
 <img align="left" alt="ModelSim" width="26px" src="https://user-images.githubusercontent.com/72519491/135131633-500893a2-f524-47eb-bc60-ccba8dbf3498.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
