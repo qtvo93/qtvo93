@@ -1,4 +1,4 @@
-### Hi there, I'm Quoc Thinh Vo - aka [KRK9](https://quoctvo.com) 👋
+### Hi there, I'm Quoc Thinh Vo - aka [QTVo93](https://quoctvo.com) 👋
 
 [![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
 
@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="qtvo93's GitHub Stats" src="https://github-readme-stats.qtvo93.vercel.app/api?username=qtvo93&show_icons=true&hide_border=true" />
+  <img align="left" alt="qtvo93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qtvo93&show_icons=true&hide_border=true" />
 
 </details>
 
