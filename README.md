@@ -28,11 +28,11 @@
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/72519491/135131569-3074f508-04a6-4a0b-a830-bcf46a7275b9.png" />
 <img align="left" alt="VHDL" width="26px" src="https://user-images.githubusercontent.com/72519491/135129826-26f207ea-5439-4cd7-8684-b78c55a4af92.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="BASH" width="26px" src="user-images.githubusercontent.com/72519491/135130219-c757f035-d4b3-46f6-8a23-106799675f17.png" />
+<img align="left" alt="BASH" width="26px" src="https://user-images.githubusercontent.com/72519491/135131775-3b2d0483-071e-4450-8acd-a57bd1ad194e.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="RISC-V" width="26px" src="https://user-images.githubusercontent.com/72519491/135130420-4d88bc2c-43f9-45d6-9790-aa925067ff74.png" />
-<img align="left" alt="Arduino" width="26px" src="user-images.githubusercontent.com/72519491/135130496-c2ebb652-7f24-438c-843d-0469c6eea59f.png" />
+<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/72519491/135131839-38f7e848-5636-4d8b-b13d-74c88f45361b.png" />
 <img align="left" alt="Texas Instrument" width="26px" src="https://user-images.githubusercontent.com/72519491/135130641-6ca5c533-74b7-4b85-8108-1c0df3cf2614.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
