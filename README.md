@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Father of a cute Pomeranian!!
 
-- 🔭 I’m currently working on software development
+- 🔭 I’m currently working on software and hardware development
 - 🌱 I’m currently learning Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: my [website contact form](https://quoctvo.com)
