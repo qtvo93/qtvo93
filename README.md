@@ -10,6 +10,7 @@
 - 📫 How to reach me: my [website contact form](https://quoctvo.com)
 - 😄 Pronouns: he/him/his
 - 😉 How to pronounce my name: [Kwok](https://www.howtopronounce.com/quoc/5104800)
+- ♟️  Connect any play chess some time, maybe? [chess.com/krvo](https://www.chess.com/stats/live/blitz/karimvo)
 - ⚡ Fun fact: I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 🥰
 
 ### Connect with me:
