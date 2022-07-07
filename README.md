@@ -1,4 +1,4 @@
-### Hi there, I'm Quoc Thinh Vo - aka [QTVo93](https://quoctvo.com) 👋
+### Hi there, I'm Quoc Thinh Vo - aka [Q.T.Vo](https://quoctvo.com) 👋
 
 [![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
 
