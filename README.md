@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on software and hardware development
 - 🌱 I’m majoring in Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
-- 📫 How to reach me: [email](mailto:qtvo93@gmail.com)
+- 📫 How to reach me: [email](mailto:contact@quoctvo.com)
 - 😄 Pronouns: he/him/his
 - 😉 How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
 - ♟️   Connect with me and play chess some time? [chess.com/krvo](https://www.chess.com/stats/live/blitz/karimvo)
