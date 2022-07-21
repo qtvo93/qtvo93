@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: [email](mailto:qtvo93@gmail.com)
 - 😄 Pronouns: he/him/his
-- 😉 How to pronounce my first name: Quoc ~> [Kwok](https://www.howtopronounce.com/quoc/5104800)
+- 😉 How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
 - ♟️   Connect with me and play chess some time? [chess.com/krvo](https://www.chess.com/stats/live/blitz/karimvo)
 - ⚡ Fun fact: I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 🥰
 
