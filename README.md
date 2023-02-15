@@ -18,8 +18,6 @@
 [![website](https://img.shields.io/badge/website-28a99e?style=for-the-badge&style=social&logo=About.me&logoColor=white)](https://quoctvo.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtvo93/)
 
-<br />
-
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&style=social&logo=amazon-aws&logoColor=white)
@@ -48,11 +46,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&style=social&logo=arduino&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&style=social&logo=visual%20studio%20code&logoColor=white)
 
-
-<br />
-
 ---
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
