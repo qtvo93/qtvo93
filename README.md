@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/website-28a99e?style=for-the-badge&style=social&logo=About.me&logoColor=white)](https://quoctvo.com/)
-[![linkedin](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&style=social&logo=myanimelist&logoColor=white)](https://www.linkedin.com/in/qtvo93/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtvo93/)
 
 <br />
 
@@ -25,7 +25,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&style=social&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&style=social&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&style=social&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&style=social&logo=c%2B%2B&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-239120?style=for-the-badge&style=social&logo=v&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&style=social&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&style=social&logo=gnu-bash&logoColor=white)
@@ -37,7 +37,7 @@
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&style=social&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&style=social&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&style=social&logo=Jira&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&style=social&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&style=social&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&style=social&logo=postgresql&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&style=social&logo=tailwind-css&logoColor=white)
