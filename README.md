@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&style=social&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FFA116?style=for-the-badge&style=social&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&style=social&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&style=social&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&style=social&logo=c%2B%2B&logoColor=white)
