@@ -15,10 +15,13 @@
 
 ### Connect with me:
 
-[![website](https://img.shields.io/badge/website-28a99e?style=for-the-badge&style=social&logo=About.me&logoColor=white)](https://quoctvo.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtvo93/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtvo93/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&style=social&logo=twitter&logoColor=white)(https://twitter.com/qtvo_dev)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)(https://github.com/qtvo93/)
+
 
 ### Languages and Tools:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FFA116?style=for-the-badge&style=social&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&style=social&logo=c&logoColor=white)
@@ -55,7 +58,7 @@
 
 </details>
 
-
+<!-- 
 [website]: https://quoctvo.com
 [linkedin]: https://www.linkedin.com/in/qtvo93/
-
+ -->
