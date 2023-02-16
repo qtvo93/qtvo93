@@ -10,8 +10,8 @@
 - 📫 How to reach me: [email](mailto:contact@quoctvo.com)
 - 😄 Pronouns: he/him/his
 - 😉 How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
-- ♟️   Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
-- ⚡ Fun fact: I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 🥰
+- ♟️  Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
+- 🥰 I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 
 
 ### Connect with me:
 
