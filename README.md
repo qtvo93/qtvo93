@@ -50,14 +50,14 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&style=social&logo=visual%20studio%20code&logoColor=white)
 
 ---
+<img align="left" alt="qtvo93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qtvo93&show_icons=false&hide_border=true" />
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
 
-<details>
-<!--   <summary>:zap: GitHub Stats</summary> -->
-
-  <img align="left" alt="qtvo93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qtvo93&show_icons=false&hide_border=true" />
+  
 
 </details>
-
+ -->
 <!-- 
 [website]: https://quoctvo.com
 [linkedin]: https://www.linkedin.com/in/qtvo93/
