@@ -1,13 +1,13 @@
-### Hi there, I'm Quoc Thinh Vo - aka [Q.T.Vo](https://quoctvo.com) 👋
+### Hi there, I'm Quoc Thinh Vo - aka [Q.T.Vo](https://qtvo.dev) 👋
 
-[![Website](https://img.shields.io/website?label=QuocTVo.com&style=for-the-badge&style=social&url=https%3A%2F%2Fquoctvo.com)](https://quoctvo.com)
+[![Website](https://img.shields.io/website?label=QTVo.dev&style=for-the-badge&style=social&url=https%3A%2F%2Fqtvo.dev)](https://qtvo.dev)
 
 ## I'm a Student, Developer, and Father of a cute Pomeranian!!
 
 - 🔭 I’m currently working on software and hardware development
 - 🌱 I’m majoring in Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
-- 📫 How to reach me: [email](mailto:qtvo93@gmail.com)
+- 📫 How to reach me: contact @ qtvo.dev
 - 😄 Pronouns: he/him/his
 - 😉 How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
 - ♟️  Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
