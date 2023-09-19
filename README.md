@@ -5,7 +5,7 @@
 ## I'm a Student, Developer, and Father of a cute Pomeranian!!
 
 - 🔭 I’m currently working on software and hardware development
-- 🌱 I’m majoring in Computer Engineering
+- 🌱 I hold a B.Sc. and a M.Sc. degree in Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: contact @ qtvo.dev
 - 😄 Pronouns: he/him/his
