@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Father of a cute Pomeranian!!
 
-- 🔭 I’m currently working on machine learning and software engineering
+- 🔭 I’m currently working on machine learning, software and cloud engineering
 - 🌱 I hold a B.Sc. and a M.Sc. degree in Computer Engineering
 - 👯 I’m looking to collaborate on autonomous, ML and AI projects
 - 📫 How to reach me: contact @ qtvo.dev
