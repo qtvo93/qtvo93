@@ -59,8 +59,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&style=social&logo=java&logoColor=white)
 
 ---
+<!-- 
 <img align="left" alt="qtvo93's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qtvo93&show_icons=false&hide_border=true" />
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
 
