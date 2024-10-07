@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=QTVo.dev&style=for-the-badge&style=social&url=https%3A%2F%2Fqtvo.dev)](https://qtvo.dev)
 
-## I'm a Student, Developer, and Father of a cute Pomeranian!!
+## I'm a Software Engineer
 
 - 🔭 I’m currently working on machine learning, software and cloud engineering
 - 🌱 I hold a B.Sc. and a M.Sc. degree in Computer Engineering
