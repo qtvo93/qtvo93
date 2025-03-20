@@ -1,6 +1,6 @@
 ### Hi there, I'm Quoc Thinh Vo - aka [Q.T.Vo](https://qtvo.dev) 👋
 
-[![Website](https://img.shields.io/website?label=QTVo.dev&style=for-the-badge&style=social&url=https%3A%2F%2Fqtvo.dev)](https://qtvo.dev)
+[Website](https://qtvo.dev)
 
 ## I'm a Software Engineer
 
