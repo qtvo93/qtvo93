@@ -12,7 +12,7 @@
 - Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
 - I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=qtvo93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="16%" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qtvo93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="10%" /> </p>
 
 ### Connect with me:
 
