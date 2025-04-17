@@ -4,14 +4,15 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working on machine learning, software and cloud engineering
-- 🌱 I hold a B.Sc. and a M.Sc. degree in Computer Engineering
-- 👯 I’m looking to collaborate on autonomous, ML and AI projects
-- 📫 How to reach me: contact @ qtvo.dev
-- 😄 Pronouns: he/him/his
-- 😉 How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
-- ♟️  Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
-- 🥰 I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 
+- I’m currently working on machine learning, software and cloud engineering
+- I hold a B.Sc. and a M.Sc. degree in Computer Engineering
+- How to reach me: contact @ qtvo.dev
+- Pronouns: he/him/his
+- How to pronounce my first name: Quoc ~> [Kwuak](https://www.howtopronounce.com/quoc/5104800)
+- Connect with me and play chess some time? [chess.com/QTVo](https://www.chess.com/member/qtvo)
+- I love playing soccer, building PC, assembling mechanical keyboards, and cooking. I’m addicted to coffee and coding 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=qtvo93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="16%" /> </p>
 
 ### Connect with me:
 
